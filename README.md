@@ -1,4 +1,5 @@
 # git.code
 This is my first Git Repository.
 <br>
-Author- Resham Karki
+Author- Resham chhetri
+
